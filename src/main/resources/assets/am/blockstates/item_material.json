@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "mana_certus_crystal":          { "model": "am:item_material/mana_certus_crystal" },
+    "mana_annihilation_core":       { "model": "am:item_material/mana_annihilation_core" },
+    "mana_formation_core":          { "model": "am:item_material/mana_formation_core" },
+    "mana_storage_housing":         { "model": "am:item_material/mana_cell_housing" },
+    "mana_storage_component_1k":    { "model": "am:item_material/mana_cell1k_part" },
+    "mana_storage_component_4k":    { "model": "am:item_material/mana_cell4k_part" },
+    "mana_storage_component_16k":   { "model": "am:item_material/mana_cell16k_part" },
+    "mana_storage_component_64k":   { "model": "am:item_material/mana_cell64k_part" },
+    "mana_storage_component_256k":  { "model": "am:item_material/mana_cell256k_part" },
+    "mana_storage_component_1024k": { "model": "am:item_material/mana_cell1024k_part" },
+    "mana_storage_component_4096k": { "model": "am:item_material/mana_cell4096k_part" }
+  }
+}

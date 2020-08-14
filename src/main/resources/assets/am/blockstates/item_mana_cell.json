@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "size_1k":    { "model": "am:item_cell/mana_cell_1k" },
+    "size_4k":    { "model": "am:item_cell/mana_cell_4k" },
+    "size_16k":   { "model": "am:item_cell/mana_cell_16k" },
+    "size_64k":   { "model": "am:item_cell/mana_cell_64k" },
+    "size_256k":  { "model": "am:item_cell/mana_cell_256k" },
+    "size_1024k": { "model": "am:item_cell/mana_cell_1024k" },
+    "size_4096k": { "model": "am:item_cell/mana_cell_4096k" }
+  }
+}

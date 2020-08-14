@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "mana_storage_bus":     { "model": "am:item_part/mana_storage_bus" },
+    "mana_import_bus":      { "model": "am:item_part/mana_import_bus" },
+    "mana_export_bus":      { "model": "am:item_part/mana_export_bus" },
+    "mana_terminal":        { "model": "am:item_part/mana_terminal" },
+    "mana_storage_monitor": { "model": "am:item_part/mana_storage_monitor" },
+    "mana_level_emitter":   { "model": "am:item_part/mana_level_emitter" },
+    "mana_interface":       { "model": "am:item_part/mana_interface" }
+  }
+}

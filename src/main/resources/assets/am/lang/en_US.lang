@@ -1,0 +1,32 @@
+item.am:item_mana_part_mana_storage_bus.name=ME Mana Storage Bus
+item.am:item_mana_part_mana_import_bus.name=ME Mana Import Bus
+item.am:item_mana_part_mana_export_bus.name=ME Mana Export Bus
+item.am:item_mana_part_mana_terminal.name=ME Mana Terminal
+item.am:item_mana_part_mana_storage_monitor.name=ME Mana Storage Monitor
+item.am:item_mana_part_mana_level_emitter.name=ME Mana Level Emitter
+
+item.am:item_mana_cell_size_1k.name=1k ME Mana Storage Cell
+item.am:item_mana_cell_size_4k.name=4k ME Mana Storage Cell
+item.am:item_mana_cell_size_16k.name=16k ME Mana Storage Cell
+item.am:item_mana_cell_size_64k.name=64k ME Mana Storage Cell
+item.am:item_mana_cell_size_256k.name=256k ME Mana Storage Cell
+item.am:item_mana_cell_size_1024k.name=1024k ME Mana Storage Cell
+item.am:item_mana_cell_size_4096k.name=4096k ME Mana Storage Cell
+
+item.am:item_material_mana_certus_crystal.name=Infused Certus Quartz Crystal
+item.am:item_material_mana_annihilation_core.name=Mana Annihilation Core
+item.am:item_material_mana_formation_core.name=Mana Formation Core
+item.am:item_material_mana_storage_housing.name=ME Mana Storage Housing
+item.am:item_material_mana_storage_component_1k.name=1k ME Mana Storage Component
+item.am:item_material_mana_storage_component_4k.name=4k ME Mana Storage Component
+item.am:item_material_mana_storage_component_16k.name=16k ME Mana Storage Component
+item.am:item_material_mana_storage_component_64k.name=64k ME Mana Storage Component
+item.am:item_material_mana_storage_component_256k.name=256k ME Mana Storage Component
+item.am:item_material_mana_storage_component_1024k.name=1024k ME Mana Storage Component
+item.am:item_material_mana_storage_component_4096k.name=4096k ME Mana Storage Component
+
+itemGroup.tab_am=AppliedManagistics
+
+desc.am:wip_msg.name=WIP!
+desc.am:disabled_msg.name=Item/Part disabled
+desc.am:no_func_msg.name=Item/Part has no function
